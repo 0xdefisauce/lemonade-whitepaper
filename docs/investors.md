@@ -2,7 +2,7 @@
 
 ## Early Adopters
 
-If you are a collector of NFTs, an investor in DeFi protocols like Drip, or play to earn fanatics, then we are building this game for you! By playing an early stage part in this adventure, you can earn a spot on our whitelist, which will allow you to get the NFTs for the cheapest possible price, and front-run the bots and potential gass wars!
+If you are a collector of NFTs, an investor in DeFi protocols like [Drip](https://drip.community/faucet?buddy=0x786755E3a1DfcB121f754fFb9249095d9F4c9Ebf), or play to earn fanatics, then we are building this game for you! By playing an early stage part in this adventure, you can earn a spot on our whitelist, which will allow you to get the NFTs for the cheapest possible price, and front-run the bots and potential gass wars!
 
 ## The Whitelist as a Reward
 

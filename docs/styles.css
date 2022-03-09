@@ -468,29 +468,34 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
-.text-green-500 {
+.text-common {
   --tw-text-opacity: 1 !important;
   color: rgb(34 197 94 / var(--tw-text-opacity)) !important;
 }
 
-.text-blue-500 {
+.text-rare {
   --tw-text-opacity: 1 !important;
   color: rgb(59 130 246 / var(--tw-text-opacity)) !important;
 }
 
-.text-purple-500 {
+.text-epic {
   --tw-text-opacity: 1 !important;
   color: rgb(168 85 247 / var(--tw-text-opacity)) !important;
 }
 
-.text-yellow-500 {
+.text-legendary {
   --tw-text-opacity: 1 !important;
-  color: rgb(234 179 8 / var(--tw-text-opacity)) !important;
+  color: rgb(202 138 4 / var(--tw-text-opacity)) !important;
 }
 
-.text-gray-500 {
+.text-junk {
   --tw-text-opacity: 1 !important;
   color: rgb(107 114 128 / var(--tw-text-opacity)) !important;
+}
+
+.text-bank {
+  --tw-text-opacity: 1 !important;
+  color: rgb(22 163 74 / var(--tw-text-opacity)) !important;
 }
 
 h1, h2, h3, h4, p {
