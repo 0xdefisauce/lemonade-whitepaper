@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+h2,
+h3,
+h4,
+p {
+  @apply prose;
+}
+
+h1.app-name {
+  @apply text-left;
+}
+
+a.app-name-link {
+  @apply !text-gray-900 no-underline;
+}

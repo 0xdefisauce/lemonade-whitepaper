@@ -3,3 +3,7 @@
   - [Investors](investors.md)
   - [The Tribe](tribe.md)
   - [Tokenomics](tokenomics.md)
+
+- Game Mechanics
+
+  - [Lemonade Stands](stands.md)
